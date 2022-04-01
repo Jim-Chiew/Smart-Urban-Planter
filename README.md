@@ -43,7 +43,7 @@ I feel that I could have done batter on the block diagram. I felt that my person
 ![Green LED](/Images%20and%20Diagrams/g%20led.png)
 ![Red LED](/Images%20and%20Diagrams/r%20led.png)
 ![Yellow and Red LED](/Images%20and%20Diagrams/y%20r%20led.png)
-There is also a short video demo [here.](/Images%20and%20Diagrams/Heat_1.mp4)
+![Demo](/Images%20and%20Diagrams/Demo.gif)
 
 ## References:
 https://create.arduino.cc/projecthub/rowan07/make-a-simple-led-circuit-ce8308  
