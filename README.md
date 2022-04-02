@@ -40,9 +40,9 @@ I feel that I could have done batter on the block diagram. I felt that my person
 ## Images:
 ![Build](/Images%20and%20Diagrams/SUP%20PNG.png)
 ![All LED On](/Images%20and%20Diagrams/all%20led.png)
-![Green LED](/Images%20and%20Diagrams/g%20led.png)
-![Red LED](/Images%20and%20Diagrams/r%20led.png)
-![Yellow and Red LED](/Images%20and%20Diagrams/y%20r%20led.png)
+![Green LED](/Images%20and%20Diagrams/G%20LED.gif)
+![Yellow LED](/Images%20and%20Diagrams/Light.gif)
+![Yellow and Red LED](/Images%20and%20Diagrams/YnR%20LED.gif)
 ![Demo](/Images%20and%20Diagrams/Demo.gif)
 
 ## References:
